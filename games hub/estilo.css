@@ -1,0 +1,36 @@
+p{
+    text-shadow: 2px 4px 4px;
+    text-align: center;
+    font-size: 30;
+    color: aliceblue;
+}
+body{
+    background-image: url(imagens/background\ site.avif);
+    background-size: cover;
+}
+
+a{
+    color: rgb(255, 0, 51);
+}
+
+dl{
+    color: crimson;
+}
+.links a{
+    font-family: Arial;
+    font-size: 20px;
+    text-shadow: 2px 2px 3px black;
+    text-decoration-line: none;
+}
+.hidden{
+    opacity: 0;
+}
+label{
+    color: blue;
+    
+}
+legend{
+    color: blue;
+    text-shadow: black;
+    
+}
